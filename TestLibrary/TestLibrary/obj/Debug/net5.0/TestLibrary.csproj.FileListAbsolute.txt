@@ -1,0 +1,12 @@
+C:\Users\david\OneDrive\Рабочий стол\MindBox\TestLibrary\TestLibrary\obj\Debug\net5.0\TestLibrary.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Рабочий стол\MindBox\TestLibrary\TestLibrary\obj\Debug\net5.0\TestLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Рабочий стол\MindBox\TestLibrary\TestLibrary\obj\Debug\net5.0\TestLibrary.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Рабочий стол\MindBox\TestLibrary\TestLibrary\obj\Debug\net5.0\TestLibrary.AssemblyInfo.cs
+C:\Users\david\OneDrive\Рабочий стол\MindBox\TestLibrary\TestLibrary\obj\Debug\net5.0\TestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Рабочий стол\MindBox\TestLibrary\TestLibrary\bin\Debug\net5.0\TestLibrary.deps.json
+C:\Users\david\OneDrive\Рабочий стол\MindBox\TestLibrary\TestLibrary\bin\Debug\net5.0\TestLibrary.dll
+C:\Users\david\OneDrive\Рабочий стол\MindBox\TestLibrary\TestLibrary\bin\Debug\net5.0\ref\TestLibrary.dll
+C:\Users\david\OneDrive\Рабочий стол\MindBox\TestLibrary\TestLibrary\bin\Debug\net5.0\TestLibrary.pdb
+C:\Users\david\OneDrive\Рабочий стол\MindBox\TestLibrary\TestLibrary\obj\Debug\net5.0\TestLibrary.dll
+C:\Users\david\OneDrive\Рабочий стол\MindBox\TestLibrary\TestLibrary\obj\Debug\net5.0\ref\TestLibrary.dll
+C:\Users\david\OneDrive\Рабочий стол\MindBox\TestLibrary\TestLibrary\obj\Debug\net5.0\TestLibrary.pdb
